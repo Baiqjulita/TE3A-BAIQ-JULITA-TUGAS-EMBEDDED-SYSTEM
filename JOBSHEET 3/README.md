@@ -9,11 +9,11 @@ Wireless Fidelity atau yang lebih awam kita sebut wifi adalah suatu teknologi ya
 5. Led (5 buah ) dan Push Button (3 buah)
 6. Sensor DHT 11 RFID
 7. Resistor 330, 1K, 10K Ohm (3 buah)
-
-## A. ESP32 WIFI Modes dan Wifi-Scan
-![rangkaian 1](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/400efe8c-b4e9-4320-8f1a-3c037664ef47)
+   
 ## Hasil dan Pembahasan
 ## Jobsheet 3.a
+![rangkaian 1](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/08d3fa4b-51ee-4ce4-9179-5a818d94e4cd)
+
 ![jb 3a](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/eb3e5a41-b375-4436-833e-aeb1105d4547)
 
 ## Jobsheet 3.b
@@ -30,6 +30,7 @@ https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/1449
 ![jb 3d](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/ef0fd092-453b-4dfc-aeb8-2940707a9af6)
 ![jb 3d(1)](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/003c4ce6-d96f-455f-822c-627658580651)
 ## Jobsheet 3.e
+![3e](https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/2fc09250-99d9-42d4-b4dd-6417a1e2b04a)
 
 https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/5c30939c-27dc-46c4-a0d8-07e396da95ff
 
