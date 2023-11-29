@@ -55,8 +55,4 @@ hasil one way two communication
 
 https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/59efd8bb-8e7a-49e3-b5c6-8a5d7379aeac
 
-
-## Flowchart
-
-
 ## Kesimpulan 
