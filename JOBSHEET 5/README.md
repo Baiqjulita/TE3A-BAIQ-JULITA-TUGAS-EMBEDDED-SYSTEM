@@ -25,9 +25,4 @@ Node-RED adalah alat pemrograman berbasis grafis untuk menyatukan perangkat kera
 ## 4. pembahasan
 
 ## 5. Kesimpulan
-Kesimpulan dari praktikum tentang topologi jaringan lokal dan WiFi yang menggunakan ESP32 adalah sebagai berikut:
-1.	Dalam praktikum ini, kami telah belajar tentang topologi jaringan lokal, yang merujuk pada cara perangkat dalam jaringan lokal berkomunikasi dan terhubung satu sama lain.
-2.	ESP32, mikrokontroler yang digunakan dalam praktikum, memiliki kemampuan WiFi yang memungkinkan perangkat ini terhubung ke jaringan WiFi lokal.
-3.	Dalam praktikum, kami telah memahami bagaimana mengonfigurasi ESP32 untuk terhubung ke jaringan WiFi lokal. Ini melibatkan konfigurasi nama SSID dan kata sandi WiFi yang benar.
-4.	Kami juga telah memahami cara ESP32 dapat berkomunikasi dengan perangkat lain di jaringan yang sama melalui WiFi.
-
+Kesimpulannya, praktikum ini memberikan pemahaman dasar tentang penggunaan Node-RED untuk mengembangkan aliran kerja otomatisasi dan pengolahan data dengan pendekatan visual. Ini adalah alat yang sangat berguna untuk pengembangan IoT, otomatisasi rumah, dan berbagai aplikasi lain yang melibatkan aliran data dan interaksi antara perangkat dan layanan.
