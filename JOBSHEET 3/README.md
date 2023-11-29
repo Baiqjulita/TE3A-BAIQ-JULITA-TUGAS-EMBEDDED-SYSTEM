@@ -35,5 +35,10 @@ https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/1449
 https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/5c30939c-27dc-46c4-a0d8-07e396da95ff
 
 ## Kesimpulan
+Kesimpulan dari praktikum tentang topologi jaringan lokal dan WiFi yang menggunakan ESP32 adalah sebagai berikut:
+1.	Dalam praktikum ini, kami telah belajar tentang topologi jaringan lokal, yang merujuk pada cara perangkat dalam jaringan lokal berkomunikasi dan terhubung satu sama lain.
+2.	ESP32, mikrokontroler yang digunakan dalam praktikum, memiliki kemampuan WiFi yang memungkinkan perangkat ini terhubung ke jaringan WiFi lokal.
+3.	Dalam praktikum, kami telah memahami bagaimana mengonfigurasi ESP32 untuk terhubung ke jaringan WiFi lokal. Ini melibatkan konfigurasi nama SSID dan kata sandi WiFi yang benar.
+4.	Kami juga telah memahami cara ESP32 dapat berkomunikasi dengan perangkat lain di jaringan yang sama melalui WiFi.
 
 
