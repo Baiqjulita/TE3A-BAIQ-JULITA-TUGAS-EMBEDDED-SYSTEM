@@ -37,4 +37,5 @@ Hasil 1.3
 
 https://github.com/Baiqjulita/TE3A-BAIQ-JULITA-TUGAS-EMBEDDED-SYSTEM/assets/144913808/a1ca9780-09f7-4cb7-9781-028393f7e1b1
 
-##Kesimpulan
+## Kesimpulan
+ESP akan menampilkan kumpulan SSID WiFi yang tersedia di sekitarnya. Setelah itu, Anda diminta untuk memasukkan IP Address yang muncul di serial monitor ke dalam browser dan mengisi formulir yang disediakan dengan SSID dan Password yang sesuai. Setelah melakukan langkah-langkah tersebut, ESP akan berhasil terhubung ke jaringan WiFi yang telah dipilih, dalam hal ini, jaringan WiFi dengan SSID "alfingay". Hasil akhirnya adalah ESP akan menampilkan pesan "Connected to alingay successfully" untuk menunjukkan bahwa koneksi ke jaringan WiFi "alfingay" telah berhasil dilakukan.
